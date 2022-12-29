@@ -7,7 +7,7 @@
 
 - 🎓 Lulusan **Institut Teknologi Telkom Purwokerto (2022)**
 
-- 🌱 Bersuaha Belajar **Frontend & Pengambangan Aplikasi Mobile**
+- 🌱 Bersuaha Belajar **Frontend & Pemula Tahap Pengambangan Aplikasi Mobile**
 
 - 📲 No WA **+62851 63738393**
 
